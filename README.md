@@ -11,6 +11,9 @@ Just simply clone the repo
   <li>Javascript</li>
 </ul>
 
+<pre>
 <h1>Snapshot</h1>
-Here it is :-
+<p>Here is the snapshot :-</p>
+<img src="./Wordle-demo.png" alt="Screenshot" width="600" height="400">
+</pre>
 
