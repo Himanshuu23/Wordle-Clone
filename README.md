@@ -10,3 +10,7 @@ Just simply clone the repo
   <li>CSS</li>
   <li>Javascript</li>
 </ul>
+
+<h1>Snapshot</h1>
+Here it is :-
+
