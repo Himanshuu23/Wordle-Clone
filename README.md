@@ -1,2 +1,2 @@
 # Wordle-Clone
-Clone to game called Wordle (https://www.nytimes.com/games/wordle/index.html)
+A game in which you have six attempts to guess a word.
