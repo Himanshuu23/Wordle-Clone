@@ -23,6 +23,6 @@ Just simply clone the repo
 <pre>
 <h1>Snapshot</h1>
 <p>Here is the snapshot :-</p>
-<img src="./Wordle-demo.png" alt="Screenshot" width="600" height="400">
+<img src="./Wordle-demo.png" alt="Snapshot" width="600" height="400">
 </pre>
 
